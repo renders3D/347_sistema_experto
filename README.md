@@ -1,2 +1,15 @@
-# 347_sistema_experto
-Implementación en lenguaje Python de un Sistema Experto Probabilístico para el diagnóstico de enfermedades respiratorias
+# (347) Sistema Experto [TP 2025-1]
+
+Implementación de un Sistema Experto Probabilístico en lenguaje Python para el diagnóstico médico de 3 enfermedades respiratorias con 5 síntomas asociados y motor de inferencia basado en el Teorema de Bayes. \
+Asignatura: Introducción a la Inteligencia Artificial y Sistemas Experto [347] \
+Semestre 2025-1
+
+## Profesor Asesor
+
+Ing. José Ramón Plaza
+
+## Estudiante
+
+Carlos L. Noriega M. \
+V-15.395.087 \
+Centro Local Metropolitano
